@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @marvinjay2023<br>👀 I’m interested in ...Programming & Music<br>🌱 I’m currently learning ...PHP to LARAVEL<br>💞️ I’m looking to collaborate on ...LARAVEL or PHP Project to enhance my Programming Skill
+👋 Hi, I’m @marvinjay2023<br>👀 I’m interested in ...Programming & Music<br>🌱 I’m currently learning ...PHP to LARAVEL<br>💞️ I’m looking to collaborate on ...LARAVEL or PHP Project and enhance our Programming Skill
 
 
 # 💻 Tech Stack:
